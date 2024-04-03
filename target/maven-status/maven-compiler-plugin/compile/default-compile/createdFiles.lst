@@ -1,0 +1,13 @@
+front\pages\AccountPage.class
+api\EmailClient.class
+api\EmailUtil.class
+front\pages\RegistrationPage.class
+api\UserGenerator.class
+front\pages\MainPage.class
+front\pages\ForgotPasswordPage.class
+api\UserAndClient.class
+front\DriverCreat.class
+api\Email.class
+api\User.class
+front\pages\BasePage.class
+front\pages\LoginPage.class
